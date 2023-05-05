@@ -1,2 +1,2 @@
 I am writing on remote side.
-After using "git pull" = "git fetch" + ?
+After using "git pull" = "git fetch" + "git merge"
